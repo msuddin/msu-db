@@ -1,2 +1,2 @@
 \c db
-create table users (id serial primary key, name text, password text);
+create table account (id serial primary key, name text, password text);

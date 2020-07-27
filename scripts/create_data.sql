@@ -1,2 +1,2 @@
 \c db;
-insert into users (name, password) values ('admin', 'password'), ('guest', 'qwerty');
+insert into account (name, password) values ('admin', 'password'), ('guest', 'qwerty');

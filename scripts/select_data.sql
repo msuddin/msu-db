@@ -1,2 +1,2 @@
 \c db;
-select * from users;
+select * from account;

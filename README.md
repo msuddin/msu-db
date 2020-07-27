@@ -29,7 +29,7 @@ You now need to switch to the correct db:
 ```
 And should be able to run a simple query on it:
 ```
-select * from users;
+select * from account;
 ```
 
 ## Notes
